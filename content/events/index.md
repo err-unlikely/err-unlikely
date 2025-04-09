@@ -1,12 +1,11 @@
 ---
-title: Events
+title: Spotkania
 hide:
   - footer
 template: event_list.html
 location: starter
 ---
 
-# 🎤 Events
+# 🎤 Spotkania
 
-You will find the list of past and upcoming events, with every detail to
-catch-up if you missed one!
+Tu znajdziesz listę minionych i nadchodzących spotkań naszej społeczności
